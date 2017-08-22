@@ -1,0 +1,6 @@
+# pip freeze > requirements.txt
+psycopg2==2.6.2
+requests==2.12.5
+Sphinx==1.6.3
+sphinxcontrib-websupport==1.0.1
+
